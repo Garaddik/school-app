@@ -1,0 +1,24 @@
+.header-color{
+    background-color: #3C3950;
+}
+.footer-color{
+    background-color: #3C3950;
+}
+.background-color{
+    background-color: #3C3950 !important;
+}
+.color{
+    color: #3C3950;
+}
+.white-text{
+    color: #fff;
+}
+.black-text{
+    color: #3C3950 !important;
+}
+.inline{
+    display: inline-block;
+}
+.white-background{
+    background-color: #ffffff !important;
+}

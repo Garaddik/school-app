@@ -1,0 +1,20 @@
+.header-title{
+    height: 40px;    
+    border-bottom: 1px solid;
+}
+.logo-container{
+    width: 80%;
+}
+.img-logo{
+    height: 40px;
+    width: auto;
+}
+.header-title-options{
+    width: 20%;
+    height: 100%;
+    vertical-align: top;
+    padding-top: 12px;
+}
+.about{
+    width: 30%;
+}
